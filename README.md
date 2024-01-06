@@ -28,4 +28,4 @@ Before using this script, make sure you have the following:
 5. Run the script, providing the GitHub repository URL you want to migrate as an argument:
 
    ```bash
-   ./github-to-gitea.sh https://github.com/YourUsername/YourRepository.git
+   ./clone-rep.sh YourUsername/YourRepository.git
